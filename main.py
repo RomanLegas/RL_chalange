@@ -5,6 +5,7 @@ import datetime
 pygame.init()
 
 def run():
+
     screen = pygame.display.set_mode()
     pygame.display.set_caption('Челендж 0.0.2')
     bg_color = (0, 102, 51)
